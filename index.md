@@ -1,4 +1,6 @@
-## Simons Blog? (what do i know)
+# Totally Realistic Space Combat Simulator iOS/tvOS Privacy Policy 
+## We do not collect any personal information using this game
 
-Well what do i know? This whole thing might be about computer vision machine learning and a small VR game i am creating.
+We don not collect, use or save any personal information of you while playing.
 
+Settings, progress and behaviour of you playing this game are stored locally on your device and not sent to or accessed by us.
