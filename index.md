@@ -1,4 +1,4 @@
-# Totally Realistic Space Combat Simulator iOS/tvOS Privacy Policy 
+# Totally Realistic Space Combat Simulator Privacy Policy 
 ## We do not collect any personal information using this game
 
 We do not collect, use or save any personal information of you while playing.
